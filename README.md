@@ -1,4 +1,4 @@
-[![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)]
+![MasterHead](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2021/09/GitHub_logo.png?fit=1200%2C513&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Shabana M.A.</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
