@@ -6,18 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabana-2003&label=Profile%20views&color=0e75b6&style=flat" alt="shabana-2003" /> </p>
 
-- 💬 Ask me about **Flutter,Dart,git**
+-  Ask me about **Flutter,Dart,git**
 
-- 📫 How to reach me **mashabana751@gmail.com**
+-  How to reach me **mashabana751@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shabana-ma-827ba424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shabana-ma-827ba424a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shabana_m_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shabana_m_a" height="30" width="40" /></a>
-</p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabana-2003&show_icons=true&locale=en&layout=compact" alt="shabana-2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabana-2003&show_icons=true&locale=en" alt="shabana-2003" /></p>
