@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabana-2003&label=Profile%20views&color=0e75b6&style=flat" alt="shabana-2003" /> </p>
 
--  Ask me about **Flutter,Dart,git**
+-  Ask me about **Flutter,Dart,git,provider,GetX,Bloc,DS,SQFLite,Hive**
 
 -  How to reach me **mashabana751@gmail.com**
 
